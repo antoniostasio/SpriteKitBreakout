@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.touchesMoved(Set&lt;UITouch&gt;, with : UIEvent?) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "touchedNode.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.(clearScene(scene : GameScene) -&gt; ()).(closure #1):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "node.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.touchesEnded(Set&lt;UITouch&gt;, with : UIEvent?) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballStarted">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.createBall(scene : GameScene) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "paddle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.clearScene(scene : GameScene) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "node.name">
+            </PersistentString>
+            <PersistentString
+               value = "node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.update(Double) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ball?.position.y">
+            </PersistentString>
+            <PersistentString
+               value = "ball?.position.x">
+            </PersistentString>
+            <PersistentString
+               value = "(ball?.physicsBody?.velocity.dy)!">
+            </PersistentString>
+            <PersistentString
+               value = "(ball?.physicsBody?.velocity.dx)">
+            </PersistentString>
+            <PersistentString
+               value = "borderBarRightXPos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.drawScene(scene : GameScene) -&gt; ():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballStarted">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
